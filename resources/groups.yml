@@ -9,22 +9,22 @@
 
 groups:
   A:
-    entrance: ["say {name} ranked up to A"]
+    entrance: []
     exit: []
     perms: []
     members: []
   B:
-    entrance: ["say {name} ranked up to B"]
+    entrance: []
     exit: []
     perms: []
     members: []
   C:
-    entrance: ["say {name} ranked up to C"]
+    entrance: []
     exit: []
     perms: []
     members: []
   D:
-    entrance: ["say {name} ranked up to D"]
+    entrance: []
     exit: []
     perms: []
     members: []
